@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kadir Pathan
+- 👀 I’m interested in Coding, 
+- 🌱 I’m currently learning AWS, Data Analytics
+- 💞️ I’m looking for a job where I will get new technologies to learn
+- 📫 Send an email to reach me: pkadir32@gmail.com 
